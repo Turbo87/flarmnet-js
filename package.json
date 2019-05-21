@@ -1,0 +1,7 @@
+{
+  "name": "flarmnet",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
+  "main": "index.js"
+}
