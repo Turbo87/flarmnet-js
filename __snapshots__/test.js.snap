@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlarmNet decode 1`] = `
+Object {
+  "records": Array [
+    Object {
+      "airfield": "D-2188",
+      "callsign": null,
+      "frequency": "123.150",
+      "id": "000000",
+      "pilot": "Müller",
+      "plane_type": "ASK-13",
+      "registration": "D-2188",
+    },
+    Object {
+      "airfield": "000000",
+      "callsign": null,
+      "frequency": null,
+      "id": "000001",
+      "pilot": null,
+      "plane_type": "Paraglider",
+      "registration": "000000",
+    },
+    Object {
+      "airfield": "D-9527",
+      "callsign": "X27",
+      "frequency": null,
+      "id": "00000f",
+      "pilot": null,
+      "plane_type": "ASW 27",
+      "registration": "D-9527",
+    },
+  ],
+  "version": 28592,
+}
+`;
